@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028444923797",
+    "project_id": "echochat-kj",
+    "storage_bucket": "echochat-kj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028444923797:android:48c5e397c593af268db89c",
+        "android_client_info": {
+          "package_name": "com.krishnajeena.echochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028444923797-ump48vc04ql4t2sjrbg6cmol79e7rhck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krishnajeena.echochat",
+            "certificate_hash": "4289947c12188ffd11d4b8945eadbf60419bc2da"
+          }
+        },
+        {
+          "client_id": "1028444923797-as9o8mnmhsk91mvsv6r0rnp4n6utsvql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEWm05EbYb8d_YvKGCY2NVQBOqu0j8Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028444923797-as9o8mnmhsk91mvsv6r0rnp4n6utsvql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
